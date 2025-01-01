@@ -1,0 +1,18 @@
+.par {
+  background-color: #fdd4eb;
+}
+
+#id1 {
+  color: blue;
+  font-size: 36px;
+}
+
+#id2 {
+  font-size: 24px;
+}
+
+#id3 {
+  background-color: rgb(184, 255, 184);
+  font-weight: bold;
+  font-size: 24;
+}
